@@ -18,14 +18,6 @@
 
 <br>
 
-## 🧬 `boot_sequence()`
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=600&color=8FA3AD&center=true&vCenter=true&width=760&lines=%3E+initializing+ai_core.modules...;%3E+loading+generative_ai%2C+nlp%2C+computer_vision;%3E+calibrating+neural_pathways...;%3E+system+ready.+let%27s+build+something+intelligent."/>
-</div>
-
-<br>
-
 ## 👩‍💻 About Me
 
 <table width="100%">
@@ -141,7 +133,7 @@ End-to-end forecasting system for store-item level retail demand — with EDA, s
 <br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logoColor=00D9FF"/>
 
 **Data Science**
