@@ -1,484 +1,260 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,20,25&text=LAIBA%20ALI%20NAQVI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=210&color=0:0D1117,50:0072FF,100:00D9FF&text=LAIBA%20ALI%20NAQVI&fontSize=44&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer%20in%20the%20Making&descAlignY=68&descSize=17&descColor=E6F7FF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=8B7CFF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Undergraduate+%F0%9F%A4%96;Generative+AI+%7C+NLP+%7C+Computer+Vision;Deep+Learning+%7C+LLMs+%7C+RAG;Turning+Data+Into+Intelligent+Systems+%F0%9F%A7%A0;Build.+Experiment.+Learn.+Repeat.+%F0%9F%9A%80"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/laiba-ali-naqvi/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:laibaali31jan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/laiba-031">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=laiba-031&style=for-the-badge&color=8B7CFF&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-# 🧠 `SYSTEM.INIT()`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B7CFF&center=true&vCenter=true&width=700&lines=%3E+Loading+LaibaAliNaqvi.exe...;%3E+AI%2FML+modules+initialized...;%3E+Generative+AI+engine+online...;%3E+Ready+to+build+intelligent+systems."/>
-
-</div>
-
----
-
-# 👩‍💻 ABOUT ME
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-### `whoami`
-
-I'm an **AI & Machine Learning undergraduate** passionate about building practical and intelligent AI systems.
-
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-
-🤖 **Generative AI**
-
-🧠 **Deep Learning**
-
-👁️ **Computer Vision**
-
-🗣️ **NLP & Speech Processing**
-
-📈 **Time Series Forecasting**
-
-🔎 **LLMs & RAG**
-
-💼 **Former IBM Generative AI Trainee**
-
-</td>
-
-<td width="45%" valign="top">
-
-### ⚡ QUICK PROFILE
-
-**ROLE**
-
-`AI/ML Undergraduate`
-
-**FOCUS**
-
-`Generative AI`  
-`Deep Learning`  
-`NLP`  
-`Computer Vision`
-
-**EXPLORING**
-
-`LLMs`  
-`RAG Systems`  
-`AI Applications`
-
-**MINDSET**
-
-`Learn → Build → Experiment → Improve`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💼 EXPERIENCE
-
-## 🏢 IBM — Generative AI Trainee Intern
-
-**June 2025 → August 2025**  
-📍 **New Delhi, India**
-
-### 🚀 Impact
-
-| Metric | Result |
-|---|---:|
-| 🎯 Facial Recognition Accuracy | **85%+** |
-| 📉 Manual Effort Reduction | **80%** |
-| ⚡ Processing Speed Improvement | **3×** |
-
-### 🔍 What I Worked On
-
-- 👁️ Developed an **AI-based attendance tracking system** using Face Recognition and Computer Vision.
-- 🎯 Implemented real-time facial detection and identification.
-- ⚙️ Automated attendance logging and report generation.
-- 📉 Reduced manual attendance effort by **80%**.
-- 🗄️ Built a database-driven solution for secure attendance storage and analytics.
-- ⚡ Improved attendance processing speed by **3×**.
-
-### 🛠️ Technologies
-
-`Python` `OpenCV` `TensorFlow/Keras` `Pandas` `Flask` `SQLite` `MySQL`
-
----
-
-# 🚀 PROJECT LAB
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎙️ AUDIO LANGUAGE MODEL
-
-### Deep Learning × NLP × Speech
-
-A deep learning-based audio language model for **speech recognition and contextual language understanding**.
-
-### 📊 Results
-
-🎯 **~92% Accuracy**
-
-🎧 **5,000+ Audio Samples**
-
-📈 **~20% Performance Improvement**
-
-🏆 **~0.90 F1 Score**
-
-### 🔬 Pipeline
-
-**Audio**
-
-↓  
-
-**Preprocessing**
-
-↓
-
-**Feature Extraction**
-
-↓
-
-**Neural Network**
-
-↓
-
-**Language Understanding**
-
-### 🧰 Stack
-
-`Python`  
-`TensorFlow` `PyTorch`  
-`NLP` `Speech Processing`  
-`NumPy` `Pandas`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📈 DEMAND FORECASTING
-
-### Machine Learning × Time Series
-
-End-to-end demand forecasting and inventory optimization system for retail sales data.
-
-### 📊 Capabilities
-
-📦 Store-item demand forecasting
-
-🔍 EDA & feature engineering
-
-📊 Seasonal trend analysis
-
-🛡️ Safety stock calculation
-
-🔄 Reorder point estimation
-
-⚠️ Stock-out risk analysis
-
-📋 Forecast performance reports
-
-📈 Inventory health visualization
-
-### 🧰 Stack
-
-`Python`
-
-`Pandas` `NumPy`
-
-`Scikit-Learn`
-
-`Matplotlib` `SQL`
-
-`Time Series Forecasting`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 AI / ML ARSENAL
-
-<div align="center">
-
-### 👩‍💻 PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
-
-<br><br>
-
-### 🤖 AI / DEEP LEARNING
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-
-<br><br>
-
-### 📊 DATA SCIENCE
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn"/>
-
-<br><br>
-
-### ⚙️ FRAMEWORKS
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit"/>
-
-<br><br>
-
-### 🗄️ DATABASES & TOOLS
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,jupyter"/>
-
-</div>
-
----
-
-# 🔬 AREAS OF EXPERTISE
-
-<table>
-<tr>
-<td>🤖 Machine Learning</td>
-<td>Classification • Regression • Clustering</td>
-</tr>
-
-<tr>
-<td>🧠 Deep Learning</td>
-<td>CNN • RNN • Neural Networks</td>
-</tr>
-
-<tr>
-<td>✨ Generative AI</td>
-<td>LLMs • Prompt Engineering • RAG</td>
-</tr>
-
-<tr>
-<td>🗣️ Natural Language Processing</td>
-<td>Language Understanding • NLP</td>
-</tr>
-
-<tr>
-<td>👁️ Computer Vision</td>
-<td>Face Recognition • Image Processing</td>
-</tr>
-
-<tr>
-<td>🎙️ Speech AI</td>
-<td>Speech Processing • Audio Understanding</td>
-</tr>
-
-<tr>
-<td>📈 Time Series</td>
-<td>Forecasting • Demand Prediction</td>
-</tr>
-
-<tr>
-<td>📊 Data Science</td>
-<td>EDA • Feature Engineering • Visualization</td>
-</tr>
-
-</table>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### 🥇
-
-**CODE360**
-
-Topper of the Month
-
-**DSA**
-
-`May 2026`
-
-</td>
-
-<td align="center">
-
-### 🎓
-
-**9.54**
-
-Latest Semester
-
-**CGPA**
-
-</td>
-
-<td align="center">
-
-### ⭐
-
-**9.3**
-
-Overall
-
-**CGPA**
-
-</td>
-
-<td align="center">
-
-### 👩‍💼
-
-**LEADERSHIP**
-
-Marketing & Management Head
-
-**Kritrim Dhi**
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 📚 CURRENTLY LEARNING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=700&color=8B7CFF&center=true&vCenter=true&width=750&lines=%F0%9F%A7%A0+Large+Language+Models;%F0%9F%94%8E+Retrieval-Augmented+Generation;%E2%9A%A1+Advanced+Deep+Learning;%F0%9F%A4%96+Generative+AI+Applications;%F0%9F%9A%80+AI-powered+Applications"/>
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=laiba-031&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-031&layout=compact&hide_border=true&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=laiba-031&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🎯 2026 MISSION
-
-<div align="center">
-
-### 🧠 GENERATIVE AI
-
-↓
-
-### 🤖 LARGE LANGUAGE MODELS
-
-↓
-
-### 🔎 RAG SYSTEMS
-
-↓
-
-### 🚀 AI APPLICATIONS
-
-↓
-
-### 🌎 REAL-WORLD IMPACT
-
-</div>
-
----
-
-# 📫 LET'S CONNECT
-
-<div align="center">
-
-## 💬 Interested in AI/ML or building something cool?
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=820&lines=Generative+AI+%C2%B7+NLP+%C2%B7+Computer+Vision;Deep+Learning+%C2%B7+LLMs+%C2%B7+RAG+Pipelines;Ex-IBM+Generative+AI+Trainee;Turning+Research+Ideas+Into+Working+Systems"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/laiba-ali-naqvi/">
-<img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:laibaali31jan@gmail.com">
-<img src="https://img.shields.io/badge/SEND_AN-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/laiba-ali-naqvi/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
+<a href="mailto:laibaali31jan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
+<a href="https://github.com/laiba-031"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
 
 <br><br>
 
-📧 **laibaali31jan@gmail.com**
-
-📍 **Faridabad, India**
-
-<br><br>
-
-### `while(alive) { learn(); build(); improve(); }`
+<img src="https://komarev.com/ghpvc/?username=laiba-031&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00D9FF"/>
 
 </div>
 
----
+<br>
+
+## 🧬 `boot_sequence()`
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=600&color=8FA3AD&center=true&vCenter=true&width=760&lines=%3E+initializing+ai_core.modules...;%3E+loading+generative_ai%2C+nlp%2C+computer_vision;%3E+calibrating+neural_pathways...;%3E+system+ready.+let%27s+build+something+intelligent."/>
+</div>
+
+<br>
+
+## 👩‍💻 About Me
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+I'm a B.Tech **Artificial Intelligence & Machine Learning** undergraduate (CGPA 9.3, Class of 2027) who likes turning research-grade ideas into systems that actually run. My work spans **generative AI, RAG pipelines, computer vision, and speech/NLP** — most recently as a **Generative AI Trainee at IBM**, where I shipped a real-time face-recognition attendance system used in production.
+
+Outside coursework, I build end-to-end ML projects — from audio language models to demand-forecasting engines — and lead marketing & management for my college's AI society, **Kritrim Dhi**.
+
+</td>
+<td width="40%" valign="top">
+
+**Role**
+`AI/ML Undergraduate`
+
+**Focus**
+`Generative AI`
+`Deep Learning`
+`NLP · Computer Vision`
+
+**Exploring**
+`LLMs · RAG`
+`Agentic AI Systems`
+
+**Base**
+`Faridabad, India`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+### IBM — Generative AI Trainee Intern
+**Jun 2025 – Aug 2025** · On-site, New Delhi, India
+
+- Built an **AI-based attendance tracking system** using face recognition and computer vision, deployed for real-time detection and identification.
+- Automated attendance logging and report generation, cutting manual effort significantly.
+- Designed a database-driven pipeline for secure attendance storage and analytics.
+- Optimized the inference pipeline for faster on-device processing.
+
+`Python` `OpenCV` `TensorFlow/Keras` `Pandas` `Flask` `SQLite/MySQL`
+
+</td>
+<td width="35%" valign="top">
+
+**Impact**
+
+| Metric | Result |
+|---|---:|
+| Recognition Accuracy | **85%+** |
+| Manual Effort ↓ | **80%** |
+| Processing Speed | **3×** |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🧪 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Deep Learning-Based Audio Language Model
+`Jan 2026 – Mar 2026`
+
+Built an audio language model for speech recognition and contextual language understanding — covering preprocessing, feature extraction, and hyperparameter tuning across 5,000+ audio samples.
+
+![Accuracy](https://img.shields.io/badge/Accuracy-~92%25-00D9FF?style=flat-square&labelColor=0D1117)
+![F1](https://img.shields.io/badge/F1--score-~0.90-00D9FF?style=flat-square&labelColor=0D1117)
+![Perf](https://img.shields.io/badge/Perf.+Gain-~20%25-00D9FF?style=flat-square&labelColor=0D1117)
+
+`Python` `TensorFlow` `PyTorch` `NLP` `Speech Processing`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Demand Forecasting & Inventory Optimization
+`Aug 2025 – Oct 2025`
+
+End-to-end forecasting system for store-item level retail demand — with EDA, seasonal trend analysis, safety-stock calculation, reorder-point estimation, and stock-out risk analysis.
+
+![Level](https://img.shields.io/badge/Granularity-Store--Item-00D9FF?style=flat-square&labelColor=0D1117)
+![Type](https://img.shields.io/badge/Type-Time--Series-00D9FF?style=flat-square&labelColor=0D1117)
+
+`Python` `Pandas` `Scikit-Learn` `SQL` `Matplotlib`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,25&height=130&section=footer&animation=twinkling"/>
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp"/>
 
-### ⭐ Thanks for visiting My profile!
+**AI / Deep Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+
+**Data Science**
+<br>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn"/>
+
+**Frameworks & Deployment**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit"/>
+
+**Tools & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jupyter,mysql,postgres"/>
+
+</div>
+
+<br>
+
+## 🧠 Core Competencies
+
+<table width="100%">
+<tr><td width="30%"><b>Machine Learning</b></td><td>Supervised & Unsupervised Learning · Classification · Regression · Clustering</td></tr>
+<tr><td><b>Deep Learning</b></td><td>CNNs · RNNs · Neural Network Design</td></tr>
+<tr><td><b>Generative AI</b></td><td>LLMs · Prompt Engineering · Retrieval-Augmented Generation</td></tr>
+<tr><td><b>NLP & Speech</b></td><td>Language Understanding · Speech Processing</td></tr>
+<tr><td><b>Computer Vision</b></td><td>Face Recognition · Image Processing</td></tr>
+<tr><td><b>Time Series</b></td><td>Demand Forecasting · Trend Analysis</td></tr>
+<tr><td><b>Data Science</b></td><td>EDA · Feature Engineering · Model Evaluation · Visualization</td></tr>
+</table>
+
+<br>
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🥇 | 🎓 | ⭐ | 👩‍💼 |
+|:---:|:---:|:---:|:---:|
+| **Topper of the Month** — DSA on Code360 | **9.54 CGPA** — latest semester | **9.3 CGPA** — overall | **Marketing & Management Head** |
+| May 2026 | GGSIPU | B.Tech AIML | Kritrim Dhi Technical Society |
+
+</div>
+
+<br>
+
+## 📡 Currently Exploring
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=17&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&width=720&lines=Large+Language+Models;Retrieval-Augmented+Generation;Advanced+Deep+Learning+Architectures;Agentic+AI+Applications"/>
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=laiba-031&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-031&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=laiba-031&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=E6F7FF&sideNums=E6F7FF&dates=8FA3AD"/>
+
+</div>
+
+<br>
+
+## 🧊 3D Contribution Grid
+
+<div align="center">
+
+An isometric, animated rendering of my contribution history — regenerated daily by a GitHub Action.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laiba-031/laiba-031/main/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laiba-031/laiba-031/main/profile-3d-contrib/profile-green-animate.svg">
+  <img src="https://raw.githubusercontent.com/laiba-031/laiba-031/main/profile-3d-contrib/profile-green-animate.svg" width="90%"/>
+</picture>
+
+<sub>This block goes live once the one-time GitHub Action setup below runs on your <code>laiba-031/laiba-031</code> profile repo.</sub>
+
+</div>
+
+<br>
+
+## 🎯 2026 Roadmap
+
+<div align="center">
+
+`Generative AI` → `Large Language Models` → `RAG Systems` → `Agentic AI Applications` → `Real-World Deployment`
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Open to AI/ML internships, research collaborations, and interesting builds.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/laiba-ali-naqvi/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
+<a href="mailto:laibaali31jan@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
+
+<br><br>
+
+📧 **laibaali31jan@gmail.com** &nbsp;·&nbsp; 📍 **Faridabad, India**
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00D9FF,100:0D1117&height=100&section=footer&animation=fadeIn"/>
 
 </div>
