@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=210&color=0:0D1117,50:0072FF,100:00D9FF&text=LAIBA%20ALI%20NAQVI&fontSize=44&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer%20in%20the%20Making&descAlignY=68&descSize=17&descColor=E6F7FF"/>
+# LAIBA ALI NAQVI
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML%20ENGINEER%20IN%20THE%20MAKING-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=820&lines=Generative+AI+%C2%B7+NLP+%C2%B7+Computer+Vision;Deep+Learning+%C2%B7+LLMs+%C2%B7+RAG+Pipelines;Ex-IBM+Generative+AI+Trainee;Turning+Research+Ideas+Into+Working+Systems"/>
 
@@ -14,6 +16,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=laiba-031&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00D9FF"/>
 
+<br>
+
+![divider](https://img.shields.io/badge/‎-0D1117?style=flat-square&color=00D9FF)
+
 </div>
 
 <br>
@@ -22,29 +28,25 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-I'm a B.Tech **Artificial Intelligence & Machine Learning** undergraduate (CGPA 9.3, Class of 2027) who likes turning research-grade ideas into systems that actually run. My work spans **generative AI, RAG pipelines, computer vision, and speech/NLP** — most recently as a **Generative AI Trainee at IBM**, where I shipped a real-time face-recognition attendance system used in production.
+AI & Machine Learning undergraduate (**CGPA 9.3**, B.Tech AIML, Class of 2027) who likes turning research-grade ideas into systems that actually ship. My work spans **Generative AI, RAG pipelines, Computer Vision, and Speech/NLP**.
 
-Outside coursework, I build end-to-end ML projects — from audio language models to demand-forecasting engines — and lead marketing & management for my college's AI society, **Kritrim Dhi**.
+Most recently, as a **Generative AI Trainee at IBM**, I built a real-time face-recognition attendance system that hit **85%+ recognition accuracy** and cut manual effort by **80%** — from prototype to a working, production-style pipeline.
+
+Outside coursework, I build end-to-end ML projects — from audio language models to demand-forecasting engines — and lead **Marketing & Management** for my college's AI society, **Kritrim Dhi**.
 
 </td>
-<td width="40%" valign="top">
+<td width="38%" valign="top">
 
-**Role**
-`AI/ML Undergraduate`
-
-**Focus**
-`Generative AI`
-`Deep Learning`
-`NLP · Computer Vision`
-
-**Exploring**
-`LLMs · RAG`
-`Agentic AI Systems`
-
-**Base**
-`Faridabad, India`
+| | |
+|---|---|
+| 🎓 **Degree** | B.Tech AIML |
+| 🏫 **College** | ADGIPS, GGSIPU |
+| 📊 **CGPA** | 9.3 (9.54 latest sem) |
+| 💼 **Past Intern** | IBM — GenAI Trainee |
+| 🔭 **Exploring** | LLMs · RAG · Agentic AI |
+| 📍 **Base** | Faridabad, India |
 
 </td>
 </tr>
@@ -94,7 +96,7 @@ Outside coursework, I build end-to-end ML projects — from audio language model
 ### 🎙️ Deep Learning-Based Audio Language Model
 `Jan 2026 – Mar 2026`
 
-Built an audio language model for speech recognition and contextual language understanding — covering preprocessing, feature extraction, and hyperparameter tuning across 5,000+ audio samples.
+Speech recognition and contextual language understanding model — preprocessing, feature extraction, and hyperparameter tuning across 5,000+ audio samples.
 
 ![Accuracy](https://img.shields.io/badge/Accuracy-~92%25-00D9FF?style=flat-square&labelColor=0D1117)
 ![F1](https://img.shields.io/badge/F1--score-~0.90-00D9FF?style=flat-square&labelColor=0D1117)
@@ -108,7 +110,7 @@ Built an audio language model for speech recognition and contextual language und
 ### 📈 Demand Forecasting & Inventory Optimization
 `Aug 2025 – Oct 2025`
 
-End-to-end forecasting system for store-item level retail demand — with EDA, seasonal trend analysis, safety-stock calculation, reorder-point estimation, and stock-out risk analysis.
+End-to-end retail demand forecasting at store-item level — EDA, seasonal trend analysis, safety-stock calculation, reorder-point estimation, and stock-out risk analysis.
 
 ![Level](https://img.shields.io/badge/Granularity-Store--Item-00D9FF?style=flat-square&labelColor=0D1117)
 ![Type](https://img.shields.io/badge/Type-Time--Series-00D9FF?style=flat-square&labelColor=0D1117)
@@ -123,32 +125,33 @@ End-to-end forecasting system for store-item level retail demand — with EDA, s
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
-
-**AI / Deep Learning**
-<br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<table width="100%">
+<tr>
+<td width="26%"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,cpp"/></td>
+</tr>
+<tr>
+<td><b>AI / Deep Learning</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>&nbsp;
 <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logoColor=00D9FF"/>
-
-**Data Science**
-<br>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn"/>
-
-**Frameworks & Deployment**
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit"/>
-
-**Tools & Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,jupyter,mysql,postgres"/>
-
-</div>
+</td>
+</tr>
+<tr>
+<td><b>Data Science</b></td>
+<td><img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn"/></td>
+</tr>
+<tr>
+<td><b>Frameworks & Deployment</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit"/></td>
+</tr>
+<tr>
+<td><b>Tools & Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,jupyter,mysql,postgres"/></td>
+</tr>
+</table>
 
 <br>
 
@@ -214,8 +217,6 @@ An isometric, animated rendering of my contribution history — regenerated dail
   <img src="https://raw.githubusercontent.com/laiba-031/laiba-031/main/profile-3d-contrib/profile-green-animate.svg" width="90%"/>
 </picture>
 
-<sub>This block goes live once the one-time GitHub Action setup below runs on your <code>laiba-031/laiba-031</code> profile repo.</sub>
-
 </div>
 
 <br>
@@ -244,9 +245,5 @@ An isometric, animated rendering of my contribution history — regenerated dail
 <br><br>
 
 📧 **laibaali31jan@gmail.com** &nbsp;·&nbsp; 📍 **Faridabad, India**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00D9FF,100:0D1117&height=100&section=footer&animation=fadeIn"/>
 
 </div>
